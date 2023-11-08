@@ -1,4 +1,4 @@
-# About Me:
+# Sobre mi:
 Soy programador Full Stack graduado en Henry. Hace años realice la carrera de Programador Superior, luego estudié el profesorado en Matemática y después realicé la Licenciatura en Ciencias Aplicadas para poder ser docente universitario, pero siempre quise volver a retomar esta gran pasión que tengo por la programación y por la resolución de problemas a través de ella. Por eso realicé este curso  y fué una experiencia increíble donde aprendí muchísimo y me motivó para continuar mi aprendizaje y crecimiento en este maravilloso mundo del desarrollo.<br>------------------------------------------------------------------------------------------------------------
 
 Contacto / Contact Me:<br>
